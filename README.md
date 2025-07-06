@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sajja Reneesha</h1>
+<h1 align="center">Heyy Everyone👋, I'm Sajja Reneesha</h1>
 <h3 align="center">Passionate about continuous learning, currently sharpening my coding skills to build meaningful solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reneesha-29&label=Profile%20views&color=0e75b6&style=flat" alt="reneesha-29" /> </p>
